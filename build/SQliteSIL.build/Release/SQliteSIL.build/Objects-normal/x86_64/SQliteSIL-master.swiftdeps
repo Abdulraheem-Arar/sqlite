@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "9b9dfc9e476b8171e9fe5942beb73c3e7439d55a90f69a650f6a94ab6fdb8b58"
+build_start_time: [1732719890, 777900000]
+build_end_time: [1732719896, 471121000]
+inputs:
+  "/Users/admin/Documents/SQliteSIL/SQliteSIL/main.swift": [1732689769, 574555791]

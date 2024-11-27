@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/admin/Documents/SQliteSIL/build/SQliteSIL.build/Release/SQliteSIL.build/Objects-normal/arm64/SQliteSIL-master.swiftconstvalues",
+    "dependencies" : "/Users/admin/Documents/SQliteSIL/build/SQliteSIL.build/Release/SQliteSIL.build/Objects-normal/arm64/SQliteSIL-master.d",
+    "diagnostics" : "/Users/admin/Documents/SQliteSIL/build/SQliteSIL.build/Release/SQliteSIL.build/Objects-normal/arm64/SQliteSIL-master.dia",
+    "emit-module-dependencies" : "/Users/admin/Documents/SQliteSIL/build/SQliteSIL.build/Release/SQliteSIL.build/Objects-normal/arm64/SQliteSIL-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/admin/Documents/SQliteSIL/build/SQliteSIL.build/Release/SQliteSIL.build/Objects-normal/arm64/SQliteSIL-master-emit-module.dia",
+    "swift-dependencies" : "/Users/admin/Documents/SQliteSIL/build/SQliteSIL.build/Release/SQliteSIL.build/Objects-normal/arm64/SQliteSIL-master.swiftdeps"
+  },
+  "/Users/admin/Documents/SQliteSIL/SQliteSIL/main.swift" : {
+    "index-unit-output-path" : "/SQliteSIL.build/Release/SQliteSIL.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/admin/Documents/SQliteSIL/build/SQliteSIL.build/Release/SQliteSIL.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/admin/Documents/SQliteSIL/build/SQliteSIL.build/Release/SQliteSIL.build/Objects-normal/arm64/main.o"
+  }
+}
